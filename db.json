@@ -131,6 +131,27 @@
       "cost": 75,
       "facilityType": "Urgent Care",
       "copay": 15
+    },
+    {
+      "cptCodeId": 5,
+      "cost": 250,
+      "facilityType": "Pharmacy",
+      "copay": 5,
+      "id": 16
+    },
+    {
+      "cptCodeId": 5,
+      "cost": 100,
+      "facilityType": "Physician's Office",
+      "copay": 10,
+      "id": 17
+    },
+    {
+      "cptCodeId": 2,
+      "cost": 100,
+      "facilityType": "Radiology Center",
+      "copay": 30,
+      "id": 18
     }
   ]
 }
